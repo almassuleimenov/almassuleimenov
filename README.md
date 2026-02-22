@@ -10,7 +10,7 @@
 ### 🚀 About Me
 📍 **Computer Science student** at **Woosong University** (South Korea)  
 💻 **Backend Developer** dedicated to building scalable, high-performance microservices.  
-🧠 **Ex-Competitive Programmer (ICPC)** & **FIRST Robotics Judge** (inspiring the next generation of engineers).  
+🧠 **Ex-Competitive Programmer (ICPC)**.  
 ⚙️ Focused on **System Design, Backend Architecture, and RAG-based AI Solutions**.
 
 ---
