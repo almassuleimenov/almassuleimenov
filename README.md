@@ -34,14 +34,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=almassuleimenov&show_icons=true&theme=tokyonight" alt="stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almassuleimenov&layout=compact&theme=tokyonight" alt="languages" height="180" />
-</p>
-
----
-
 ### 📫 Connect with me:
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/almassuleimenov)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Suleimenov_almasik)
+
