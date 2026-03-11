@@ -38,7 +38,7 @@
 
 ### 📫 Connect with me:
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio_Website-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://almas.dev) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Suleimenov_almasik)
+[![Portfolio](https://img.shields.io/badge/-Portfolio_Website-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-suleimenov.vercel.app/) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Suleimenov_almasik)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/N5TYLVLIOJQ6I1)
 
 ---
