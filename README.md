@@ -1,5 +1,5 @@
 # Hi, I'm Almas 👋 
-### Software Architect | Backend, AI & Mobile Developer
+### Software Engineer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=almassuleimenov&label=Profile%20views&color=FF5722&style=flat" alt="views" />
