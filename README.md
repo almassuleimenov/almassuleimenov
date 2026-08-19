@@ -25,31 +25,6 @@
 
 ---
 
-### 🏆 Engineering Metrics & Gamification
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[ТВОЙ_GITHUB_ЛОГИН]&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_GITHUB_ЛОГИН]&show_icons=true&hide_border=true&bg_color=121212&title_color=D9C5B2&text_color=E0D8C0&icon_color=4A5D4E" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ТВОЙ_GITHUB_ЛОГИН]&hide_border=true&background=121212&ring=4A5D4E&fire=D9C5B2&currStreakNum=E0D8C0&sideNums=E0D8C0&sideLabels=E0D8C0&dates=E0D8C0" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-### 🐍 Contribution Graph (Automated)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ТВОЙ_GITHUB_ЛОГИН]/[ТВОЙ_GITHUB_ЛОГИН]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ТВОЙ_GITHUB_ЛОГИН]/[ТВОЙ_GITHUB_ЛОГИН]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[ТВОЙ_GITHUB_ЛОГИН]/[ТВОЙ_GITHUB_ЛОГИН]/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 <div align="center">
   <a href="mailto:suleimenovalmas75@gmail.com">
     <img src="https://img.shields.io/badge/Reach_out_at-suleimenovalmas75@gmail.com-D9C5B2?style=for-the-badge&logo=gmail&logoColor=121212" alt="Email" />
