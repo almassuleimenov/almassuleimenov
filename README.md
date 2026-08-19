@@ -1,12 +1,16 @@
-## Almas Suleimenov
-**Software Engineer | Backend & SRE | ICPC NERC Finalist**
+## almas-suleimenov@production:~$ whoami
 
-Designing and building fault-tolerant microservices, high-load APIs, and automated infrastructure. I bridge the gap between complex algorithms and production-ready architectures, focusing on asynchronous processing and zero-downtime deployments.
+Software Engineer specializing in Backend, SRE, and Applied AI. 
+ICPC NERC Finalist transitioning hardcore algorithmic theory into scalable, zero-downtime production architectures. 
 
-### 🛠 Core Stack & Technologies
-*   **Backend Engineering:** Go, Python (FastAPI), Async I/O, Clean Architecture
-*   **Infrastructure & SRE:** Docker, Caddy, GitHub Actions, CI/CD pipelines
-*   **Databases:** PostgreSQL, Redis, SQLite
-*   **AI & Applied Tech:** Agentic RAG, LLM integrations (LLaMA, Groq), Web3 (Solana/Rust)
+> "Building fault-tolerant systems, one asynchronous microservice at a time."
 
-📫 Reach out at: suleimenovalmas75@gmail.com
+### >_ stack.json
+```json
+{
+  "backend": ["Go", "Python/FastAPI", "TypeScript"],
+  "infrastructure": ["Docker", "Caddy", "GitHub Actions"],
+  "databases": ["PostgreSQL", "Redis", "SQLite"],
+  "applied_ai": ["Agentic RAG", "LLaMA", "Groq"],
+  "web3": ["Solana", "Rust"]
+}
