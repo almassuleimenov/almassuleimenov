@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>I bridge the gap between complex algorithms and production-ready architectures, focusing on asynchronous processing, zero-downtime deployments, and high-load APIs.</p>
+  <p>Backend engineer focused on distributed systems, high throughput, and keeping production boringly stable.</p>
 </div>
 
 ---
