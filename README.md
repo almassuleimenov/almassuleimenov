@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>Backend engineer focused on distributed systems, high throughput, and keeping production boringly stable.</p>
+  <p>Backend & AI engineer · Go, Python, Next.js · ICPC 2025 NERC Honorable Mention · AI @ Woosong University</p>
 </div>
 
 ---
